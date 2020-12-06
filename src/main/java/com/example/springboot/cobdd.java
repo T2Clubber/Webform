@@ -24,6 +24,7 @@ public class cobdd {
         }
     }
     public void addUser(String username, String password) {
-
+        // coder l'insert dans User dans la BDD, avec des insert en langage jdbc (voir google)
+        //se renseigner sur le "cors" pour permettre les post (remplacer les get par des post)
     }
 }
